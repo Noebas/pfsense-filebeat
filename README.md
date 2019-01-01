@@ -11,4 +11,3 @@ Optional add menu item by add this to the service section of /cf/conf/config.xml
 	<executable>filebeat</executable>
 	<description><![CDATA[Filebeat service]]></description>
 </service>
-
