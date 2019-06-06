@@ -16,7 +16,7 @@ echo " done."
 
 #Install new version
 echo -n "Installing filebeat..."
-/usr/sbin/pkg add -f https://pkg.freebsd.org/FreeBSD:11:amd64/latest/All/beats-6.4.2.txz
+/usr/sbin/pkg add -f https://pkg.freebsd.org/FreeBSD:11:amd64/latest/All/beats-6.7.1.txz
 echo " done."
 
 # Make filebeat auto start at boot
